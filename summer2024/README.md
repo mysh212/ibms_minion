@@ -225,7 +225,7 @@ in the summarized file `bracken.tsv` showing ~80% filtered reads from EV-D while
 visualize the result using Krona plot (do `updateTaxonomy.sh` if it was newly installed)
 
 ```
-ktImportTaxonomy -t 5 -m 2 k2.report_bracken_species.txt
+ktImportTaxonomy -t 5 -m 3 k2.report_bracken_species.txt
 ```
 
 ![](krona.png)
